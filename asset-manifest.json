@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b13c280.css",
+    "main.js": "/static/js/main.6be7e9a6.js",
+    "static/media/banner-bg.jpg": "/static/media/banner-bg.166fc76c88e13347d68c.jpg",
+    "static/media/Chef-App.PNG": "/static/media/Chef-App.deebf7e13f575d8e8f3e.PNG",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/mongodb.png": "/static/media/mongodb.9fb9b3d1d58ca685ddc2.png",
+    "static/media/header.PNG": "/static/media/header.7dca358c4cca18bff802.PNG",
+    "static/media/Contacts.PNG": "/static/media/Contacts.946d2edc9ddf2ad29c20.PNG",
+    "static/media/Inventory.PNG": "/static/media/Inventory.b2a754a3cee8207c1ab0.PNG",
+    "static/media/node.jpg": "/static/media/node.0e0846d2f2bddf76480c.jpg",
+    "static/media/Chatapp.png": "/static/media/Chatapp.ce01de73ed96570a9194.png",
+    "static/media/Cplus.png": "/static/media/Cplus.9de9df950e692f5576c1.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/contact-img.svg": "/static/media/contact-img.96d05ba62a6bc55118128452dc63d211.svg",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/git.svg": "/static/media/git.1b7515255869d00eea8ce0aba5773250.svg",
+    "static/media/java.svg": "/static/media/java.e762a078e3d03dbc7253140068f33ec7.svg",
+    "static/media/react.svg": "/static/media/react.cf0a328eb335bbb70f3b1e0f5f170f4a.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.375ee9a1358e6bb55bc8b8662bf1ae46.svg",
+    "static/media/css.svg": "/static/media/css.03886f5c7431ec863ec2cb768e953249.svg",
+    "static/media/html5.svg": "/static/media/html5.e2c364a792066ccbbfcbbf4ace880677.svg",
+    "index.html": "/index.html",
+    "static/media/figma.svg": "/static/media/figma.c8fdc0393f5e671b7907c1aa01ef2144.svg",
+    "main.9b13c280.css.map": "/static/css/main.9b13c280.css.map",
+    "main.6be7e9a6.js.map": "/static/js/main.6be7e9a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b13c280.css",
+    "static/js/main.6be7e9a6.js"
+  ]
+}
