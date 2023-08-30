@@ -1,5 +1,5 @@
 {
-  "homepage": "https://saad662.github.io/Portfolio",
+  "homepage": "https://saad662.github.io/portfolio",
   "name": "saad662",
   "version": "0.1.0",
   "private": true,
@@ -47,8 +47,7 @@
     ],
     "development": [
       "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
+      "last 1 firefox version"
     ]
   },
   "devDependencies": {
